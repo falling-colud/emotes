@@ -113,4 +113,24 @@ public final class ClientEmoteEvents {
          */
         void onEmoteStop();
     }
+
+    /**
+     * Invoked every client tick
+     * This event is called on every client tick and can be used for continuous processing
+     */
+    public static final Event<ClientTickEvent> CLIENT_TICK = new Event<>(ClientTickEvent.class, listeners -> () -> {
+        for (ClientTickEvent listener : listeners) {
+            listener.onClientTick();
+        }
+    });
+
+    @FunctionalInterface
+    public interface ClientTickEvent {
+
+        /**
+         * Called every client tick
+         * Use this for continuous processing that needs to happen every tick
+         */
+        void onClientTick();
+    }
 }

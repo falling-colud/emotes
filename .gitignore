@@ -18,9 +18,6 @@ bin/
 .classpath
 .project
 
-#fabric
-run/
-
 #project junk
 quark api.txt
 icon.blend1
@@ -34,3 +31,8 @@ crowdin_old.yml
 /.architectury-transformer/*
 /artifacts
 /buildSrc/.kotlin/
+*.log
+*.gz
+minecraft/neoforge/run/servers.dat_old
+minecraft/neoforge/run/servers.dat
+minecraft/neoforge/run/options.txt
