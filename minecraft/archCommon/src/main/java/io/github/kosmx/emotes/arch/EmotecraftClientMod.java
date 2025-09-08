@@ -2,6 +2,7 @@ package io.github.kosmx.emotes.arch;
 
 import com.mojang.blaze3d.platform.InputConstants;
 import io.github.kosmx.emotes.PlatformTools;
+import io.github.kosmx.emotes.api.events.client.ClientEmoteEvents;
 import io.github.kosmx.emotes.arch.screen.ingame.FastMenuScreen;
 import io.github.kosmx.emotes.main.MainLoader;
 import io.github.kosmx.emotes.main.network.ClientEmotePlay;
@@ -19,6 +20,9 @@ public class EmotecraftClientMod {
 
     protected void onClientTick(Minecraft minecraft) {
         MainLoader.tick();
+
+        // Invoke the CLIENT_TICK event for API consumers
+        ClientEmoteEvents.CLIENT_TICK.invoker().onClientTick();
 
         if (OPEN_MENU_KEY.consumeClick()) {
             if(PlatformTools.getConfig().alwaysOpenEmoteScreen.get() || minecraft.player == minecraft.getCameraEntity()) {

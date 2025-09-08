@@ -1,0 +1,1030 @@
+[Architectury Transformer] Architectury Runtime 5.2.87
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Preparing tiny remapper prepared transformer: dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Provided 104 classpath jar(s):
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\fabric-loom\1.21.4\neoforge\21.4.124\client-extra.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\dev.architectury\architectury-injectables\1.0.10\62db2a366d662606d1b23ad02ccc3212ed37ec3\architectury-injectables-1.0.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.fabricmc\fabric-loader\0.17.2\647622ac4163aad5ed5f79ccb532e31225562aa\fabric-loader-0.17.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\25.0.0\c1e6b966db352094ac3bf7f88f3bdef332fe43f0\annotations-25.0.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged.fancymodloader\earlydisplay\6.0.11\caa7da96be4843d6399d44704dff98fe4e7c93ec\earlydisplay-6.0.11.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\fabric-loom\forge\transformed-dependencies-v1\net\neoforged\fancymodloader\d326913c0a592d1169585c644d1048830e7d2d3a75067a1110a841a3aff68f62\loader\6.0.11\loader-6.0.11.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged.accesstransformers\at-modlauncher\11.0.1\c3bab0ab738f57325df7be7d7cb71868b775cffc\at-modlauncher-11.0.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\accesstransformers\11.0.1\41c41b1cd9800f0fea16c89a5e21f83d34bd9b87\accesstransformers-11.0.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\bus\8.0.2\163c9ef7c4bcca6d850c34e95261b606af91fe06\bus-8.0.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\coremods\7.0.3\9147e6f638b4272b3bd5fc8f92ad37802512c6c\coremods-7.0.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\11.0.4\6619d4812a3c092310d521ebc4c9503727563df7\modlauncher-11.0.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\mergetool\2.0.0\52fe1949be64e3303aabaaa21e315f551db9c9f4\mergetool-2.0.0-api.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.8.1\fb0731789fc50ddeb3ad43e48ef65008b777b2ec\toml-3.8.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.8.1\530d608fc238350f00c815d562f21a5d79939972\core-3.8.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarSelector\0.4.1\fb3cc7a58af22ad2880adb98af6d518128c47dae\JarJarSelector-0.4.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarMetadata\0.4.1\f8da03683dc81694556dc3e177c5e3bb77ae6fcb\JarJarMetadata-0.4.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.9.9\a130ec431ef32e12a4424f9b074735bb58e15d2d\maven-artifact-3.9.9.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.3.0\b562e9bb61235c9520e26282cdee71f8f802d1fc\terminalconsoleappender-1.3.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.fabricmc\sponge-mixin\0.15.2+mixin.0.8.7\2af2f021d8e02a0220dc27a7a72b4666d66d44ca\sponge-mixin-0.15.2+mixin.0.8.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\2.0.2\1a2d076cbc33b0520cbacd591224427b2a20047d\bootstraplauncher-2.0.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7\e86dda4696d3c185fcc95d8d311904e7ce38a53f\asm-commons-9.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7\c0655519f24d92af2202cb681cd7c1569df6ead6\asm-util-9.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7\e4a258b7eb96107106c0599f0061cfc1832fe07a\asm-analysis-9.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7\e446a17b175bfb733b87c5c2560ccb4e57d69f1a\asm-tree-9.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7\73d7b3086e14beb604ced229c302feff6449723\asm-9.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.4.1\eff97772ecd0dcf8e52cdbafd3b3ccec425f8314\mixinextras-neoforge-0.4.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.neoforged.accesstransformers\at-parser\11.0.1\124789359511c100a88ab0ba90adc80a8fd7db36\at-parser-11.0.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\logging\1.5.10\9ab1202793717af9df9c1704d0a02892067001eb\logging-1.5.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.24.1\8e3ddc96464ef7f768823e7e001a52b23de8cd0a\log4j-slf4j2-impl-2.24.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.16\172931663a09a1fa515567af5fbef00897d3c04\slf4j-api-2.0.16.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.24.1\c85285146f28d8c8962384f786e2dff04172fb43\log4j-core-2.24.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.github.juuxel\unprotect\1.3.1\432f07e4f647aa3c33aba0b7e630dd3948f65bae\unprotect-1.3.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.24.1\7ebeb12c20606373005af4232cd0ecca72613dda\log4j-api-2.24.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.20.0\8f15415b022a25b473e8e16c28ae913186ffb9c4\jline-reader-3.20.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.20.0\d0ddcc708ddf527a3454c941b7b9225cc83a15ff\jline-terminal-3.20.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.17.0\ddcc8433eb019fb48fe25207c0278143f3e1d7e2\commons-io-2.17.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.minecraftforge\srgutils\0.4.15\ca408b131759478f164e010fae0d73997e125fb5\srgutils-0.4.15.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\33.3.1-jre\852f8b363da0111e819460021ca693cacca3e8db\guava-33.3.1-jre.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.2\c4a06a64e650562f30b7bf9aaec1bfed43aca12b\failureaccess-1.0.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.43.0\9425eee39e56b116d2b998b7c2cebcbd11a3c98b\checker-qual-3.43.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.11.0\527175ca6d81050b53bdd4c457a6d6e017626b0e\gson-2.11.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.28.0\59fc00087ce372de42e394d2c789295dff2d19f0\error_prone_annotations-2.28.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\3.0.0\7399e65dd7e9ff3404f4535b2f017093bdb134c7\j2objc-annotations-3.0.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.5.1\c6bfb17c97ecc8863e88778ea301be742c62b06d\plexus-utils-3.5.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.17.0\b17d2136f0460dcc0d2016ceefca8723bdf4ee70\commons-lang3-3.17.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.3\efa1eb78c5ccd840e9f329717109b5e892d72f8e\lwjgl-glfw-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.3\2f6b0147078396a58979125a4c947664e98293a\lwjgl-opengl-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.3\25dd6161988d7e65f71d5065c99902402ee32746\lwjgl-stb-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.3\82d755ca94b102e9ca77283b9e2dc46d1b15fbe5\lwjgl-tinyfd-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.3\29589b5f87ed335a6c7e7ee6a5775f81f97ecb84\lwjgl-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.13.4\858c6cc78e1f08a885b1613e1d817c829df70a6e\jackson-annotations-2.13.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.13.4\cf934c681294b97ef6d80082faeefbe1edadf56\jackson-core-2.13.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.13.4.2\325c06bdfeb628cfb80ebaaf1a26cc1eb558a585\jackson-databind-2.13.4.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.6.5\e1099981fd15dc4236c4499d82aba1276fb43a9a\oshi-core-6.6.5.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.github.stephenc.jcip\jcip-annotations\1.0-1\ef31541dd28ae2cefdd17c7ebf352d93e9058c63\jcip-annotations-1.0-1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\76.1\215f3a8e936d4069344bd75f2b1368fd58112894\icu4j-76.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\msal4j\1.17.2\a6211e3d71d0388929babaa0ff0951b30d001852\msal4j-1.17.2.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\6.0.57\bded3161a7346de32213da750388ec6529fe4f6b\authlib-6.0.57.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.3.10\d15b53a14cf20fdcaa98f731af5dda654452c010\brigadier-1.3.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\8.0.16\67d4de6d7f95d89bcf5862995fb854ebaec02a34\datafixerupper-8.0.16.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\jtracy\1.0.29\6f07dcb6a2e595c7ee2ca43b67e5d1c018ca0770\jtracy-1.0.29.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.nimbusds\content-type\2.3\e3aa0be212d7a42839a8f3f506f5b990bcce0222\content-type-2.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.nimbusds\lang-tag\1.7\97c73ecd70bc7e8eefb26c5eea84f251a63f1031\lang-tag-1.7.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.nimbusds\nimbus-jose-jwt\9.40\42b1dfa0360e4062951b070bac52dd8d96fd7b38\nimbus-jose-jwt-9.40.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\com.nimbusds\oauth2-oidc-sdk\11.18\7c7ec4f4066625ff07a711ad856fa04da1ff9de\oauth2-oidc-sdk-11.18.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.17.1\973638b7149d333563584137ebf13a691bb60579\commons-codec-1.17.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.3.4\b9fc14968d63a8b8a8a2c1885fe3e90564239708\commons-logging-1.3.4.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.115.Final\d5daf1030e5c36d198caf7562da2441a97ec0df6\netty-buffer-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.115.Final\d326bf3a4c785b272da3db6941779a1bd5448378\netty-codec-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.115.Final\9da10a9f72e3f87e181d91b525174007a6fc4f11\netty-common-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.115.Final\d54dbf68b9d88a98240107758c6b63da5e46e23a\netty-handler-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.115.Final\e33b4d476c03975957f5d8d0319d592bf2bc5e96\netty-resolver-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.115.Final\11fea00408ecbd8b8d1f0698d708e37db4a01841\netty-transport-classes-epoll-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.115.Final\dc96c67d06cd6b5eb677f2728f27bf2e3d9a7284\netty-transport-native-unix-common-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.115.Final\39cef77c1a25908ac1abf4960c2e789f0bf70ff9\netty-transport-4.1.115.Final.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.15\1e885b40c9563ab0d3899b871fd0b30e958705dc\fastutil-8.5.15.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.15.0\86b502cad57d45da172b5e3231c537b042e296ef\jna-platform-5.15.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.15.0\1ee1d80ff44f08280188f7c0e740d57207841ac\jna-5.15.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.minidev\accessors-smart\2.5.1\19b820261eb2e7de7d5bde11d1c06e4501dd7e5f\accessors-smart-2.5.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\net.minidev\json-smart\2.5.1\4c11d2808d009132dfbbf947ebf37de6bf266c8e\json-smart-2.5.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.27.1\a19151084758e2fbb6b41eddaa88e7b8ff4e6599\commons-compress-1.27.1.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.14\1194890e6f56ec29177673f2f12d0b8e627dec98\httpclient-4.5.14.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.16\51cf043c87253c9f58b539c9f7e44c8894223850\httpcore-4.4.16.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.jcraft\jorbis\0.0.17\8872d22b293e8f5d7d56ff92be966e6dc28ebdc6\jorbis-0.0.17.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.8\fc0a71dad90a2cf41d82a76156a0e700af8e4f8d\joml-1.10.8.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-freetype\3.3.3\a0db6c84a8becc8ca05f9dbfa985edc348a824c7\lwjgl-freetype-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.3\b543467b7ff3c6920539a88ee602d34098628be5\lwjgl-jemalloc-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.3\daada81ceb5fc0c291fbfdd4433cb8d9423577f2\lwjgl-openal-3.3.3.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\org.lz4\lz4-java\1.8.0\4b986a99445e49ea5fbf5d149c4b63f6ed6c6780\lz4-java-1.8.0.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\Documents\mc\animated\.gradle\loom-cache\minecraftMaven\net\minecraft\neoforge-21.4.124-minecraft-merged-427e09e766\1.21.4-loom.mappings.1_21_4.layered+hash.814158091-v2-neoforge-21.4.124\neoforge-21.4.124-minecraft-merged-427e09e766-1.21.4-loom.mappings.1_21_4.layered+hash.814158091-v2-neoforge-21.4.124.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.115.Final\a6cc58c4a259bad159cbb06120cea9b3474e86a0\netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\.gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-epoll\4.1.115.Final\a80b32f98ceb4e27958c0ceaf22ddad9ea6c0d4e\netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar
+[Architectury Transformer DEBUG]  - C:\Users\Operatore\Documents\mc\animated\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_4_layered_hash_814158091_v2_neoforge_21_4_124_forge\dev\kosmx\player-anim\player-animation-lib-forge\2.0.3.1+1.21.4\player-animation-lib-forge-2.0.3.1+1.21.4.jar
+[Architectury Transformer] Read classpath in 1.973 s
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\9624171050479105162.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@17c386de
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@5af97850
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@5ef60048
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@1d548a08
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@16aa0a0a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@780cb77
+[Architectury Transformer DEBUG] Transforming from C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\9624171050479105162.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/EmoteArgumentProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/ServerCommands with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/McUtils with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/services/IPermissionService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/services/impl/Logger4jService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/services/impl/VanillaPermissionService with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\OPERAT~1\AppData\Local\Temp\9624171050479105162.jar
+[Architectury Transformer] Listening at C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\16146400660810120917.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@6238b10a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@225b460a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@26c494d7
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@71d0ad00
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@56c7e2d1
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@2e549515
+[Architectury Transformer DEBUG] Transforming from C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\16146400660810120917.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/config/Serializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/config/ConfigSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/network/IServerNetworkInstance with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/network/AbstractServerEmotePlay with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/network/AbstractServerEmotePlay$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/network/EmotePlayTracker with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/UniversalEmoteSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/EmoteSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/IReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/ISerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/BinaryFormat with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/JsonEmoteWrapper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/QuarkReaderWrapper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/EmoteSerializerException with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/services/InstanceService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/services/impl/InstanceServiceImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\OPERAT~1\AppData\Local\Temp\16146400660810120917.jar
+[Architectury Transformer] Listening at C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar to C:\Users\OPERAT~1\AppData\Local\Temp\15275778357656065365.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@3353d096
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@602af317
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@6f98e92c
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@5257f99d
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@7f2d4421
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@48a8a298
+[Architectury Transformer DEBUG] Transforming from C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar to C:\Users\OPERAT~1\AppData\Local\Temp\15275778357656065365.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/PlatformTools with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/EmotecraftClientMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/ClientCommands with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/screen/ConfigScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/EmoteListWidget with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/EmoteListWidget$ListEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/EmoteListWidget$EmoteEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/EmoteListWidget$FolderEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/PlayerPreview with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/search/SearchablesSearch$FixedAutoCompletingEditBox with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/search/ISearchEngine with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/search/VanillaSearch with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/gui/widgets/search/SearchablesSearch with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/PlayerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/KeyEventMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/LivingEntityRendererMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/EntityRenderDispatcherMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/ServerChunkCacheAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/EntityTrackerAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/EmotePlayerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/ServerPlayTrackerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/AnimationJsonMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/ServerCommonPacketListenerAccessor with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/ConnectionHandlerMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/ServerPlayNetworkMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/mixin/emf/EMFAnimationEntityContextMixin with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/EmotePacketPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/ModdedServerPlayNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/NetworkPlatformTools with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/EmotesMixinNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/AbstractServerNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/AbstractServerNetwork$ServerStreamHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/CommonServerNetworkHandler with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/ConfigTask with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/EmotesMixinConnection with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/client/ClientNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/client/ClientNetwork$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/EmoteMenu$FastChooseWidget with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/ExportMenu with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/EmoteMenu with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen$FastMenuWidget with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/ingame/FullMenuScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/utils/UnsafeRemotePlayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/utils/UnsafeClientLevel with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/utils/EmoteListener with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/utils/BageUtils with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/IChooseWheel with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/ModernChooseWheel$FastChooseElement with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/ModernChooseWheel with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/LegacyChooseWidget with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/LegacyChooseWidget$FastChooseElement with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/AbstractFastChooseWidget with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/widget/IChooseWheel$IChooseElement with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/EmoteHolder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/MainLoader with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/MainClientInit with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/EmoteHolder$Empty with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig$2 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/EmoteFixer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfigSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/emotePlay/EmotePlayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/mixinFunctions/IPlayerEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientPacketManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay$QueueEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\OPERAT~1\AppData\Local\Temp\15275778357656065365.jar
+[Architectury Transformer] Listening at C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\16540503670206757430.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@355c3a21
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@6abcda34
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@e7bdda7
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@72f689bc
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@26af38f1
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@2a4e3b6a
+[Architectury Transformer DEBUG] Transforming from C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\16540503670206757430.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\OPERAT~1\AppData\Local\Temp\16540503670206757430.jar
+[Architectury Transformer] Listening at C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Transforming 6 transformer(s) from C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\2291841062696984986.jar: 
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@4af96af
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@59cc24ff
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@50208046
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeAnnotations@16fcd2c4
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment@6e1e345a
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeNeoForgeMod@564d0eba
+[Architectury Transformer DEBUG] Transforming from C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar to C:\Users\OPERAT~1\AppData\Local\Temp\2291841062696984986.jar with 6 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteAPI with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientNetworkEvents with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteVerifier with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$LocalEmoteStopEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmotePlayEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteStopEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientNetworkEvents$PacketSendEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/server/ServerEmoteEvents$EmoteVerifier with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/server/ServerEmoteEvents$EmotePlayEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/server/ServerEmoteEvents$EmoteStopEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/server/ServerEmoteAPI with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/server/ServerEmoteEvents with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/AbstractNetworkInstance with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/EmotesProxyManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/INetworkInstance with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/IEmotecraftService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/LoggerService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/impl/SystemLoggerService with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig$ListConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig$FloatConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/CommonData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig$ConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmotePacket$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/CommonNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmoteStreamHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/PacketConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/PacketTask with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmotePacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/SongPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/PlayerDataPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteHeaderPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/NetData with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/NetHashMap with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/DiscoveryPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/StopPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteIconPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/AbstractNetworkPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteDataPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/tools/BiMap with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/tools/ServiceLoaderUtil with maxs=true frames=true
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/tools/BiMap$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\OPERAT~1\AppData\Local\Temp\2291841062696984986.jar
+[Architectury Transformer] Listening at C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\OPERAT~1\AppData\Local\Temp\9624171050479105162.jar] contains packages: io.github.kosmx.emotes.mc, io.github.kosmx.emotes.mc.services, io.github.kosmx.emotes.mc.services.impl
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesMc\build\devlibs\emotesMc-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\OPERAT~1\AppData\Local\Temp\16146400660810120917.jar] contains packages: io.github.kosmx.emotes.server.config, io.github.kosmx.emotes.server.services, io.github.kosmx.emotes.server.network, io.github.kosmx.emotes.server.serializer, io.github.kosmx.emotes.server.serializer.type, io.github.kosmx.emotes.server.services.impl
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesServer\build\libs\emotesServer-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\OPERAT~1\AppData\Local\Temp\15275778357656065365.jar] contains packages: io.github.kosmx.emotes.arch.mixin.emf, io.github.kosmx.emotes.arch.network.client, io.github.kosmx.emotes.arch.screen.ingame, io.github.kosmx.emotes.arch, io.github.kosmx.emotes.main.config, io.github.kosmx.emotes.main.network, io.github.kosmx.emotes.arch.gui.widgets, io.github.kosmx.emotes, io.github.kosmx.emotes.main, io.github.kosmx.emotes.arch.mixin, io.github.kosmx.emotes.arch.screen.utils, io.github.kosmx.emotes.arch.gui.widgets.search, io.github.kosmx.emotes.arch.network, io.github.kosmx.emotes.arch.screen, io.github.kosmx.emotes.arch.gui.screen, io.github.kosmx.emotes.main.emotePlay, io.github.kosmx.emotes.arch.screen.components, io.github.kosmx.emotes.main.mixinFunctions, io.github.kosmx.emotes.arch.screen.widget
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\minecraft\archCommon\build\devlibs\emotecraft-archCommon-for-MC1.21.4-2.5.8-a.9d74dcf4-dev.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\OPERAT~1\AppData\Local\Temp\16540503670206757430.jar] contains packages: 
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAssets\build\libs\emotesAssets-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\OPERAT~1\AppData\Local\Temp\2291841062696984986.jar] contains packages: io.github.kosmx.emotes.common.network, io.github.kosmx.emotes.api.proxy, io.github.kosmx.emotes.api.events.server, io.github.kosmx.emotes.common, io.github.kosmx.emotes.api.services.impl, io.github.kosmx.emotes.api.events.client, io.github.kosmx.emotes.common.tools, io.github.kosmx.emotes.common.network.objects, io.github.kosmx.emotes.api.services
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\Operatore\Documents\mc\animated\emotesAPI\build\libs\emotesAPI-2.5.8-a.9d74dcf4.jar
+[Architectury Transformer DEBUG] Classpath entry [C:\Users\Operatore\Documents\mc\animated\minecraft\neoforge\build\resources\main] contains packages: 
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/mixinFunctions/IPlayerEntity.class to io/github/kosmx/emotes/main/mixinFunctions/IPlayerEntity.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping with Dirty Mappings...
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/mixinFunctions/IPlayerEntity with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/mixinFunctions/IPlayerEntity in 160.6 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/EmotecraftClientMod.class to io/github/kosmx/emotes/arch/EmotecraftClientMod.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/EmotecraftClientMod with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/EmotecraftClientMod in 23.85 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/MainLoader.class to io/github/kosmx/emotes/main/MainLoader.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/MainLoader with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/MainLoader in 59.08 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/config/ConfigSerializer.class to io/github/kosmx/emotes/server/config/ConfigSerializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/config/ConfigSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/config/ConfigSerializer in 49.16 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/config/ClientConfigSerializer.class to io/github/kosmx/emotes/main/config/ClientConfigSerializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfigSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/config/ClientConfigSerializer in 40.79 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/CommonData.class to io/github/kosmx/emotes/common/CommonData.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/CommonData with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/CommonData in 26.00 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/config/Serializer.class to io/github/kosmx/emotes/server/config/Serializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/config/Serializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/config/Serializer in 43.23 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/SerializableConfig.class to io/github/kosmx/emotes/common/SerializableConfig.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/SerializableConfig in 30.37 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/config/ClientConfig.class to io/github/kosmx/emotes/main/config/ClientConfig.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/config/ClientConfig in 32.27 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/SerializableConfig$ConfigEntry.class to io/github/kosmx/emotes/common/SerializableConfig$ConfigEntry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig$ConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/SerializableConfig$ConfigEntry in 35.81 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/SerializableConfig$FloatConfigEntry.class to io/github/kosmx/emotes/common/SerializableConfig$FloatConfigEntry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/SerializableConfig$FloatConfigEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/SerializableConfig$FloatConfigEntry in 36.81 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/config/ClientConfig$1.class to io/github/kosmx/emotes/main/config/ClientConfig$1.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/config/ClientConfig$1 in 40.34 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/config/ClientConfig$2.class to io/github/kosmx/emotes/main/config/ClientConfig$2.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/ClientConfig$2 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/config/ClientConfig$2 in 46.31 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/MainClientInit.class to io/github/kosmx/emotes/main/MainClientInit.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/MainClientInit with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/MainClientInit in 28.66 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/UniversalEmoteSerializer.class to io/github/kosmx/emotes/server/serializer/UniversalEmoteSerializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/UniversalEmoteSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/UniversalEmoteSerializer in 22.19 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/EmoteSerializerException.class to io/github/kosmx/emotes/server/serializer/type/EmoteSerializerException.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/EmoteSerializerException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/EmoteSerializerException in 18.34 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/IReader.class to io/github/kosmx/emotes/server/serializer/type/IReader.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/IReader with maxs=true frames=true
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/network/EmotesMixinConnection.class to io/github/kosmx/emotes/arch/network/EmotesMixinConnection.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/IReader in 13.13 ms
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/EmotesMixinConnection with maxs=true frames=true
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/services/IEmotecraftService.class to io/github/kosmx/emotes/api/services/IEmotecraftService.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/network/EmotesMixinConnection in 24.86 ms
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/IEmotecraftService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/services/IEmotecraftService in 34.38 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/tools/ServiceLoaderUtil.class to io/github/kosmx/emotes/common/tools/ServiceLoaderUtil.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/tools/ServiceLoaderUtil with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/tools/ServiceLoaderUtil in 15.28 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/QuarkReaderWrapper.class to io/github/kosmx/emotes/server/serializer/type/QuarkReaderWrapper.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/QuarkReaderWrapper with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/QuarkReaderWrapper in 20.61 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/services/LoggerService.class to io/github/kosmx/emotes/api/services/LoggerService.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/LoggerService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/services/LoggerService in 19.10 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/services/impl/SystemLoggerService.class to io/github/kosmx/emotes/api/services/impl/SystemLoggerService.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/services/impl/SystemLoggerService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/services/impl/SystemLoggerService in 23.72 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/mc/services/impl/Logger4jService.class to io/github/kosmx/emotes/mc/services/impl/Logger4jService.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/services/impl/Logger4jService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/mc/services/impl/Logger4jService in 24.03 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/services/InstanceService.class to io/github/kosmx/emotes/server/services/InstanceService.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/services/InstanceService with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/services/InstanceService in 20.07 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/services/impl/InstanceServiceImpl.class to io/github/kosmx/emotes/server/services/impl/InstanceServiceImpl.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/services/impl/InstanceServiceImpl with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/services/impl/InstanceServiceImpl in 13.41 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/tools/BiMap.class to io/github/kosmx/emotes/common/tools/BiMap.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/tools/BiMap with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/tools/BiMap in 14.31 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/config/EmoteFixer.class to io/github/kosmx/emotes/main/config/EmoteFixer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/config/EmoteFixer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/config/EmoteFixer in 40.66 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/BinaryFormat.class to io/github/kosmx/emotes/server/serializer/type/BinaryFormat.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/BinaryFormat with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/BinaryFormat in 27.96 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/ISerializer.class to io/github/kosmx/emotes/server/serializer/type/ISerializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/ISerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/ISerializer in 28.10 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/type/JsonEmoteWrapper.class to io/github/kosmx/emotes/server/serializer/type/JsonEmoteWrapper.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/type/JsonEmoteWrapper with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/type/JsonEmoteWrapper in 23.31 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/server/serializer/EmoteSerializer.class to io/github/kosmx/emotes/server/serializer/EmoteSerializer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/server/serializer/EmoteSerializer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/server/serializer/EmoteSerializer in 57.47 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/EmoteHolder.class to io/github/kosmx/emotes/main/EmoteHolder.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/EmoteHolder with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/EmoteHolder in 31.15 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/EmoteHolder$Empty.class to io/github/kosmx/emotes/main/EmoteHolder$Empty.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/EmoteHolder$Empty with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/EmoteHolder$Empty in 25.11 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/mc/McUtils.class to io/github/kosmx/emotes/mc/McUtils.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/McUtils with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/mc/McUtils in 23.45 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/network/ClientPacketManager.class to io/github/kosmx/emotes/main/network/ClientPacketManager.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientPacketManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/network/ClientPacketManager in 24.91 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/proxy/EmotesProxyManager.class to io/github/kosmx/emotes/api/proxy/EmotesProxyManager.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/EmotesProxyManager with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/proxy/EmotesProxyManager in 22.14 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/PlatformTools.class to io/github/kosmx/emotes/PlatformTools.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/PlatformTools with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/PlatformTools in 24.40 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/proxy/INetworkInstance.class to io/github/kosmx/emotes/api/proxy/INetworkInstance.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/INetworkInstance with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/proxy/INetworkInstance in 19.72 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/network/client/ClientNetwork.class to io/github/kosmx/emotes/arch/network/client/ClientNetwork.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/client/ClientNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/network/client/ClientNetwork in 21.18 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/proxy/AbstractNetworkInstance.class to io/github/kosmx/emotes/api/proxy/AbstractNetworkInstance.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/proxy/AbstractNetworkInstance with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/proxy/AbstractNetworkInstance in 19.85 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/EmoteStreamHelper.class to io/github/kosmx/emotes/common/network/EmoteStreamHelper.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmoteStreamHelper with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/EmoteStreamHelper in 21.62 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/network/client/ClientNetwork$1.class to io/github/kosmx/emotes/arch/network/client/ClientNetwork$1.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/client/ClientNetwork$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/network/client/ClientNetwork$1 in 20.72 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen.class to io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/screen/ingame/FastMenuScreen in 21.55 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/screen/EmoteMenu.class to io/github/kosmx/emotes/arch/screen/EmoteMenu.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/EmoteMenu with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/screen/EmoteMenu in 25.01 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen.class to io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/screen/components/EmoteSubScreen in 48.47 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/network/EmotePacketPayload.class to io/github/kosmx/emotes/arch/network/EmotePacketPayload.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/EmotePacketPayload with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/network/EmotePacketPayload in 34.78 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/network/NetworkPlatformTools.class to io/github/kosmx/emotes/arch/network/NetworkPlatformTools.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/network/NetworkPlatformTools with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/network/NetworkPlatformTools in 21.43 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/network/ClientEmotePlay.class to io/github/kosmx/emotes/main/network/ClientEmotePlay.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/network/ClientEmotePlay in 11.97 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteAPI.class to io/github/kosmx/emotes/api/events/client/ClientEmoteAPI.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteAPI with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteAPI in 8.481 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/network/ClientEmotePlay$QueueEntry.class to io/github/kosmx/emotes/main/network/ClientEmotePlay$QueueEntry.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay$QueueEntry with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/network/ClientEmotePlay$QueueEntry in 9.217 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/arch/ClientCommands.class to io/github/kosmx/emotes/arch/ClientCommands.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/arch/ClientCommands with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/arch/ClientCommands in 10.09 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/mc/EmoteArgumentProvider.class to io/github/kosmx/emotes/mc/EmoteArgumentProvider.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/mc/EmoteArgumentProvider with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/mc/EmoteArgumentProvider in 8.481 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/EmotePacket$Builder.class to io/github/kosmx/emotes/common/network/EmotePacket$Builder.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmotePacket$Builder with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/EmotePacket$Builder in 9.703 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/NetData.class to io/github/kosmx/emotes/common/network/objects/NetData.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/NetData with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/NetData in 10.90 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/PacketTask.class to io/github/kosmx/emotes/common/network/PacketTask.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/PacketTask with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/PacketTask in 13.72 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/EmotePacket.class to io/github/kosmx/emotes/common/network/EmotePacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/EmotePacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/EmotePacket in 15.22 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/AbstractNetworkPacket.class to io/github/kosmx/emotes/common/network/objects/AbstractNetworkPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/AbstractNetworkPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/AbstractNetworkPacket in 16.25 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/EmoteDataPacket.class to io/github/kosmx/emotes/common/network/objects/EmoteDataPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteDataPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/EmoteDataPacket in 13.81 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/PlayerDataPacket.class to io/github/kosmx/emotes/common/network/objects/PlayerDataPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/PlayerDataPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/PlayerDataPacket in 18.54 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/StopPacket.class to io/github/kosmx/emotes/common/network/objects/StopPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/StopPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/StopPacket in 15.95 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/DiscoveryPacket.class to io/github/kosmx/emotes/common/network/objects/DiscoveryPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/DiscoveryPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/DiscoveryPacket in 15.09 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/SongPacket.class to io/github/kosmx/emotes/common/network/objects/SongPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/SongPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/SongPacket in 17.88 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/EmoteHeaderPacket.class to io/github/kosmx/emotes/common/network/objects/EmoteHeaderPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteHeaderPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/EmoteHeaderPacket in 15.50 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/EmoteIconPacket.class to io/github/kosmx/emotes/common/network/objects/EmoteIconPacket.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/EmoteIconPacket with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/EmoteIconPacket in 15.49 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/objects/NetHashMap.class to io/github/kosmx/emotes/common/network/objects/NetHashMap.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/objects/NetHashMap with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/objects/NetHashMap in 13.94 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/network/ClientEmotePlay$1.class to io/github/kosmx/emotes/main/network/ClientEmotePlay$1.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/network/ClientEmotePlay$1 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/network/ClientEmotePlay$1 in 19.98 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/main/emotePlay/EmotePlayer.class to io/github/kosmx/emotes/main/emotePlay/EmotePlayer.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/main/emotePlay/EmotePlayer with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/main/emotePlay/EmotePlayer in 20.44 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientNetworkEvents.class to io/github/kosmx/emotes/api/events/client/ClientNetworkEvents.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientNetworkEvents with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientNetworkEvents in 51.43 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientNetworkEvents$PacketSendEvent.class to io/github/kosmx/emotes/api/events/client/ClientNetworkEvents$PacketSendEvent.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientNetworkEvents$PacketSendEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientNetworkEvents$PacketSendEvent in 62.70 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteEvents.class to io/github/kosmx/emotes/api/events/client/ClientEmoteEvents.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteEvents in 50.68 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteVerifier.class to io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteVerifier.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteVerifier with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteVerifier in 33.70 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmotePlayEvent.class to io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmotePlayEvent.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmotePlayEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmotePlayEvent in 30.99 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteStopEvent.class to io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteStopEvent.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteStopEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$EmoteStopEvent in 33.18 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$LocalEmoteStopEvent.class to io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$LocalEmoteStopEvent.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$LocalEmoteStopEvent with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/api/events/client/ClientEmoteEvents$LocalEmoteStopEvent in 30.27 ms
+[Architectury Transformer DEBUG] Transforming from io/github/kosmx/emotes/common/network/CommonNetwork.class to io/github/kosmx/emotes/common/network/CommonNetwork.class with 6 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Remapping with 1 mapping provider(s):
+[Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformNeoForgeEnvironment$$Lambda/0x000001abcd034e18@1a84f40f
+[Architectury Transformer DEBUG] Remapping Classes:
+[Architectury Transformer DEBUG] net/fabricmc/api/EnvType -> net/neoforged/api/distmarker/Dist
+[Architectury Transformer DEBUG] net/fabricmc/api/Environment -> net/neoforged/api/distmarker/OnlyIn
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing io/github/kosmx/emotes/common/network/CommonNetwork with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed io/github/kosmx/emotes/common/network/CommonNetwork in 44.60 ms
