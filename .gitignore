@@ -18,6 +18,9 @@ bin/
 .classpath
 .project
 
+#fabric
+run/
+
 #project junk
 quark api.txt
 icon.blend1

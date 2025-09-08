@@ -1,3 +1,0 @@
-/emotes-client play "Club penguin"
-/emotes play e
-/emotes-client play Custom
